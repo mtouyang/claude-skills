@@ -9,8 +9,8 @@
     {
       "name": "mtouyang-skills",
       "source": {
-        "source": "github",
-        "repo": "mtouyang/claude-skills",
+        "source": "url",
+        "url": "https://github.com/mtouyang/claude-skills.git",
         "ref": "v1.0.0"
       },
       "description": "Claude Code skills by mtouyang. docs-for-humans: rewrite manuals, SOPs, and runbooks into a shape a human can follow (English and Traditional Chinese).",
