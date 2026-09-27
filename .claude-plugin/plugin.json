@@ -1,0 +1,16 @@
+{
+  "name": "mtouyang-skills",
+  "version": "1.0.0",
+  "description": "Claude Code skills by mtouyang. docs-for-humans: rewrite manuals, SOPs, and runbooks into a shape a human can follow (English and Traditional Chinese).",
+  "author": {
+    "name": "mtouyang",
+    "url": "https://github.com/mtouyang"
+  },
+  "homepage": "https://github.com/mtouyang/claude-skills",
+  "repository": "https://github.com/mtouyang/claude-skills",
+  "license": "MIT",
+  "keywords": ["documentation", "runbook", "sop", "technical-writing", "zh-TW"],
+  "skills": [
+    "./skills/docs-for-humans"
+  ]
+}
